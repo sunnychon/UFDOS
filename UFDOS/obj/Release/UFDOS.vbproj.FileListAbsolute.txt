@@ -1,0 +1,11 @@
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\bin\Release\UFDOS.exe
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\bin\Release\UFDOS.pdb
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\bin\Release\UFDOS.xml
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\obj\Release\UFDOS.Resources.resources
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\obj\Release\UFDOS.vbproj.GenerateResource.Cache
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\obj\Release\UFDOS.exe
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\obj\Release\UFDOS.xml
+C:\Users\Sunny\AppData\Local\Temporary Projects\UFDOS\obj\Release\UFDOS.pdb
+D:\visual studio 2010\Projects\UFDOS\UFDOS\obj\Release\UFDOS.exe
+D:\visual studio 2010\Projects\UFDOS\UFDOS\obj\Release\UFDOS.xml
+D:\visual studio 2010\Projects\UFDOS\UFDOS\obj\Release\UFDOS.pdb
