@@ -2,15 +2,14 @@
 UFDOS is a UDP flooding tool ('U'dp 'F'looding 'DOS')
 This tool is writen with VB2010
 <h1>Code:</h1>
-
-<code>
+```
 Imports System.Threading, System.Net.Sockets
 Imports System.Net
 Imports System.Text
 
 Public Module Module1
-Public UPSIS As Integer
-Sub Main()
+    Public UPSIS As Integer
+    Sub Main()
 
         'UFDOS-1b_christmas2023_vbnet20231221_1
         '                                         ==                                            
@@ -128,4 +127,4 @@ Sub Main()
         Loop
     End Sub
 End Module
-</code>
+```
