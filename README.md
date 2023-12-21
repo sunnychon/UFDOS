@@ -1,5 +1,5 @@
 # UFDOS
-UFDOS is a simple UDP flooding tool
+UFDOS is a simple UDP flooding tool,
 This tool is writen with VB2010
 
         '                                         ==                                            
