@@ -2,7 +2,7 @@
 UFDOS is a UDP flooding tool ('U'dp 'F'looding 'DOS')
 This tool is writen with VB2010
 <h1>Code:</h1>
-```
+
 Imports System.Threading, System.Net.Sockets
 Imports System.Net
 Imports System.Text
@@ -127,4 +127,4 @@ Public Module Module1
         Loop
     End Sub
 End Module
-```
+
